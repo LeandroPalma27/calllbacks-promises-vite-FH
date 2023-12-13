@@ -6,6 +6,9 @@ import { promisesComponent } from './src/concepts/03-promises';
 import { promiseRaceComponent } from './src/concepts/04-promise-race';
 import { asyncComponent } from './src/concepts/05-async';
 import { asyncAwaitComponent } from './src/concepts/06-async-await';
+import { asyncAwait2Component } from './src/concepts/07-async-await-2';
+import { forAwaitComponent } from './src/concepts/08-for-await';
+import { generatorsFunctionComponent } from './src/concepts/09-generators';
 
 document.querySelector('#app').innerHTML = `
   <div>
@@ -30,4 +33,7 @@ const divElement = document.querySelector('.card');
 // promisesComponent(divElement);
 // promiseRaceComponent(divElement);
 // asyncComponent(divElement);
-asyncAwaitComponent(divElement);
+// asyncAwaitComponent(divElement);
+// asyncAwait2Component(divElement);
+// forAwaitComponent(divElement);
+generatorsFunctionComponent(divElement);
