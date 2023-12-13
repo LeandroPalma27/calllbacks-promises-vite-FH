@@ -17,6 +17,7 @@ export const heroes = [
         "id": "5d86371f25a058e5b1c8a65e",
         "about": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem. Est culpa esse aliqua non labore dolor esse labore nulla mollit. Nostrud amet est quis adipisicing dolor. Labore veniam elit veniam non ad ex consequat excepteur eiusmod. Minim cupidatat velit Lorem culpa quis consequat incididunt qui amet incididunt pariatur ex aliquip aliqua. Magna ex elit in aliquip minim eu ut ut fugiat ullamco deserunt adipisicing cillum.",
         "picture": "https://i.pinimg.com/736x/ba/9b/36/ba9b3623c9a639296e85f7ff09c3c205.jpg",
+        "squarePic": "https://peru21.pe/resizer/qfM8VIbszfaPV-NGfeQmp1tpnWo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Z5CQS3YFPBB23GOYRTFQ4TLLFY.png",
         "name": "Captain America"
     },
     {
@@ -57,14 +58,14 @@ export const heroes = [
         "id": "5d86371fd55e2e2a30fe1ccb2",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://www.sideshow.com/storage/product-images/903735/spider-man-advanced-suit_marvel_silo.png",
-        "squarePic": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/28/15696592030335.jpg",
+        "squarePic": "https://s1.eestatic.com/2016/01/18/ciencia/ciencia_95500599_450100_1706x1280.jpg",
         "name": "Spider Man"
     },
     {
         "id": "5d86371fd55e2e2a30fe1cc3",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://fsmedia.imgix.net/f5/ba/d8/66/7dd4/44e9/8e0a/d91348489582/ant-man-and-the-wasp-2018.jpeg#image",
-        "squarePic": "https://img.chilango.com/2018/05/quien-es-capitan-marvel.jpg",
+        "squarePic": "https://depor.com/resizer/Vn20Hh7CTjX1CkY_lmXaigp22TM=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/GCFYFNWEARG47PHJ6UER235YQM.jpg",
         "name": "Ant Man"
     },
     {
